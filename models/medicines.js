@@ -3,15 +3,15 @@ import Joi from "joi";
 import { handleMongooseError } from "../helpers/index.js";
 
 const medicineSchema = new Schema({
-  owner: {
-    type: Schema.Types.ObjectId,
-    ref: "apothek",
-  },
+  // owner: {
+  //   type: Schema.Types.ObjectId,
+  //   ref: "apothek",
+  // },
 
   name: {
     type: String,
   },
-  image: {
+  img: {
     type: String,
   },
   price: {

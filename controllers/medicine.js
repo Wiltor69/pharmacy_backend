@@ -2,7 +2,7 @@ import { Medicine } from "../models/medicines.js";
 import { ctrlWrapper } from "../helpers/index.js";
 
 const getMedicine = async (req, res) => {
-  const { _id: owner } = req.apothek;
+  // const { _id: owner } = req.apothek;
   const { page = 1, limit = 4 } = req.query;
   const skip = (page - 1) * limit;
   const result = await Medicine.find({}, "-createdAt -updatedAt", {

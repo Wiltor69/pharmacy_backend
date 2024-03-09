@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Virilis",
+    "count": 100,
+    "img": "https://upack-liner.ru/wp-content/uploads/2019/05/lekarstva4-300x248.jpg",
+    "price": 52
+    
+  },
+  {
+    "name": "Glicirin Forte",
+    "count": 100,
+    "img": "https://upack-liner.ru/wp-content/uploads/2019/05/lekarstva3-300x248.jpg",
+    "price": 32
+    
+  },
+  {
+    "name": "AntiStressin",
+    "count": 100,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgd8ZC-3ME2DdwwZ9Y2xv1XjEcUzGnMV1Fxg&usqp=CAU",
+    "price": 57
+    
+  },
+  {
+    "name": "Uprostin",
+    "count": 100,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe4pT7wl97AGwq9IW5shBHjbdACVXVPtvn0Zf9RHxTjJHNCcV4xD5bT7tQj6Uq-7d1KWE&usqp=CAU",
+    "price": 23
+    
+  },
+  {
+    "name": "Ofigen",
+    "count": 100,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLcT-3LiLPkdgZSD0-2uy_N7Spq_MD_I_OlbhadY_fo8GZDTsD_mfxvaCj2bEP3Y2SNKw&usqp=CAU",
+    "price": 49
+   
+  },
+  {
+    "name": "Diklofinak",
+    "count": 100,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI486kOL1t7Kx1YmhI-J0iF1Z1uuIzaoeGvtOvcqn9-GjjcYbyBjD2kCehDMvH0ECVmq4&usqp=CAU",
+    "price": 120
+   
+  },
+  {
+    "name": "Analgin",
+    "count": 100,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYMCm2pdyCeORO2bZoZeeLrOqtE_irINmTc1RYid4ucsFF8WKa-v-u15sgY07KSFA2mfU&usqp=CAU",
+    "price": 35
+   
+  },
+  {
+    "name": "Pentalgin",
+    "count": 100,
+    "img": "https://lh3.googleusercontent.com/proxy/NVP88-ZKpQ7UXtnV13gUimV-jEF_PfoNOZ9jYgnyKHLW-lFzxs7DNLgWrTesIL98UOkUkvxqHozTXPlIc8a_7TvchNr48A5mL7QG2Kuq7JW6lrNqN4XHE0-h",
+    "price": 56
+   
+  },
+   {
+    "name": "Zanadip",
+    "count": 100,
+    "img": "https://www.eapteka.ru/upload/offer_photo/261/668/resized/230_230_1_07143c17a60aaf5d5f8159e3a5c04525.png?t=1644074114",
+    "price": 76
+   
+  },
+   {
+    "name": "Lerkanidipin",
+    "count": 100,
+    "img": "https://pics.erkapharm.com/images/goods/192385/main.jpg",
+    "price": 28
+   
+  },
+  {
+    "name": "Lercamen 20",
+    "count": 100,
+    "img": "https://www.eapteka.ru/upload/offer_photo/210/610/resized/230_230_1_b43c995314e3f43d2eb135743efdc5fb.png?t=1644072691",
+    "price": 127
+   
+  }
+  
+]
